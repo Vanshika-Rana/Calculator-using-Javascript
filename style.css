@@ -15,7 +15,10 @@ body{
     background-color: #233342;
 }
 .calculator{
-    
+    border-radius: 35px;
+    background: #233342;
+    box-shadow:  26px 26px 35px #1c2834,
+             -26px -26px 35px #2a3e50;
     position: relative;
     display:grid;
 }
